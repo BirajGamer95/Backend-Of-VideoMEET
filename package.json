@@ -1,0 +1,14 @@
+{
+  "name": "video-call-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.2",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
